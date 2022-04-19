@@ -1,6 +1,6 @@
 ### Hi there, I 'm Nikolaos Vlagoidis 👋
 
-[<img src='https://img.shields.io/twitter/follow/N_kos?style=plastic'](https://twitter.com/N_kos)
+[<img src='https://img.shields.io/twitter/follow/N_kos?style=plastic' />](https://twitter.com/N_kos)
       
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/nikolaos-vlagoidis-3a4a47126/)
 
