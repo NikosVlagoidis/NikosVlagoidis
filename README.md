@@ -9,7 +9,7 @@ Glad to see you here! <img src='https://hits.seeyoufarm.com/api/count/incr/badge
 <img width="50%" height="180em" src='https://github-readme-streak-stats.herokuapp.com/?user=nikosvlagoidis'/><img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=NikosVlagoidis&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 #### 👩‍💻 languages
-<img src='https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white' />
+<img src='https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white' /><img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' />
 
 
 
