@@ -7,6 +7,6 @@ Glad to see you here! <img src='https://hits.seeyoufarm.com/api/count/incr/badge
 
 
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=nikosvlagoidis'/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikosVlagoidis&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikosVlagoidis&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikosvlagoidis&theme=vue' />
 
-<img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikosvlagoidis&theme=vue' />
+
